@@ -1,0 +1,11 @@
+file,count
+video1,4
+video2,25
+video3,17
+video4,23
+video5,18
+video6,28
+video7,29
+video8,23
+video9,10
+video10,23
